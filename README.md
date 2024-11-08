@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Finance AI 💰
 
-First, run the development server:
+Project developed in a week of learning, called Full Stack Week, where the aim is to teach and learn new tools and code new projects.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Objectives
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The project aims to simplify personal financial management for anyone who wants to live a healthy life with regard to their money. It brings practical features for everyday life, such as registration, insights, graphs and real-time monitoring of expenses.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Stack used
 
-## Learn More
+- **Next.js**
+- **React.js**
+- **PostgreSQL**
+- **Tailwind CSS**
+- **Prisma**
+- **Node.js**
+- **ShadCN**
+- **TypeScript**
+- **JavaScript**
+## Screenshots
 
-To learn more about Next.js, take a look at the following resources:
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
