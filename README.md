@@ -21,5 +21,5 @@ The project aims to simplify personal financial management for anyone who wants 
 - **JavaScript**
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Capa](https://github.com/user-attachments/assets/6ec1aa3e-9080-431d-b222-8c939675f6e0)
 
