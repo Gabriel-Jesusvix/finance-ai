@@ -23,3 +23,7 @@ The project aims to simplify personal financial management for anyone who wants 
 
 ![Capa](https://github.com/user-attachments/assets/6ec1aa3e-9080-431d-b222-8c939675f6e0)
 
+
+## 🔗 Contact
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel--jesus/)
